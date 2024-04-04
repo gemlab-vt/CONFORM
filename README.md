@@ -5,7 +5,9 @@
 
 
 ><p align="center">
+
 >[Tuna Han Salih Meral](https://tunahansalih.github.io/), [Enis Simsar](https://enis.dev/), [Federico Tombari](https://federicotombari.github.io/), [Pinar Yanardag](https://pinguar.org/)
+
 ></p>
 >
 > Images produced by text-to-image diffusion models might not always faithfully represent the semantic intent of the provided text prompt where the model might overlook or entirely fail to produce certain objects. While recent studies propose various solutions, they often require customly tailored functions for each of these problems, leading to sub-optimal results, especially for complex prompts. Our work introduces a novel perspective by tackling this challenge in a contrastive context. Our approach intuitively promotes the segregation of objects in attention maps, while also maintaining that pairs of related attributes are kept close to each other. We conducted extensive experiments across a wide variety of scenarios, each involving unique combinations of objects, attributes, and scenes. These experiments effectively showcase the versatility, efficiency, and flexibility of our method in working with both latent and pixel-based diffusion models, including Stable Diffusion and Imagen. Moreover, we publicly share our source code to facilitate further research. 
