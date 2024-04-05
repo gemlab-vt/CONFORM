@@ -1,6 +1,6 @@
 # **CONFORM: Contrast is All You Need For High-Fidelity Text-to-Image Diffusion Models [CVPR 2024]**
 
-[![Project Website](https://img.shields.io/badge/Project-Website-green)](https://conform-diffusion.github.io)[![arXiv](https://img.shields.io/badge/arXiv-2312.06059-b31b1b.svg)](https://arxiv.org/abs/2312.06059)
+[![Project Website](https://img.shields.io/badge/Project-Website-green)](https://conform-diffusion.github.io) [![arXiv](https://img.shields.io/badge/arXiv-2312.06059-b31b1b.svg)](https://arxiv.org/abs/2312.06059)
 
 
 
